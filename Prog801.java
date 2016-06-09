@@ -5,7 +5,7 @@ public class Prog801 {
 
 	public static void main(String[] args) throws IOException {
 
-		String fichero="E:\\HugoGarcíaArias\\Programación\\Tema8\\estadistica.dat";
+		String fichero="E:\\HugoGarcÃ­aArias\\ProgramaciÃ³n\\Tema8\\estadistica.dat";
 		FileInputStream f=null;
 		int numAlumnos=0, sumaEdades=0, edadMayor, numMenores=0, sumaDesviacion = 0;
 		float media=0;
@@ -45,3 +45,4 @@ public class Prog801 {
 		}
 	}
 }
+// Comenrtario
